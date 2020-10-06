@@ -1,0 +1,11 @@
+{
+  "name": "url-shortener-nodejs",
+  "version": "1.0.0",
+  "description": "app to generate short link url",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Jadli",
+  "license": "MIT"
+}
