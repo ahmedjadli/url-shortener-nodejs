@@ -3,6 +3,8 @@ const bodyParser = require("body-parser");
 const path = require("path");
 const helmet = require("helmet");
 
+//mongo DB init
+require("./config/db");
 //init app
 const app = express();
 
